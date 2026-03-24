@@ -41,7 +41,13 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="564" height="427" alt="image" src="https://github.com/user-attachments/assets/89beab91-e333-4f35-b1b0-9fd9a3870092" />
+<img width="565" height="384" alt="image" src="https://github.com/user-attachments/assets/ced98fd4-028a-4427-bf93-373375193ef5" />
+
+
 # Output:
+<img width="598" height="187" alt="image" src="https://github.com/user-attachments/assets/d88c6662-4527-4a82-a685-20852968394e" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -67,7 +73,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6: 
   Call the function `max(num1, num2)`.
 ### Step 7: 
-  Inside function `max(num1, num2)`:
+  Inside function `max(num1, num2)`
+:
 - **Step 7.1:** Receive two integer arguments.  
 - **Step 7.2:** Compare the two numbers.  
 - **Step 7.3:** If `num1 > num2`, return `num1`.  
@@ -89,7 +96,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+<img width="570" height="369" alt="image" src="https://github.com/user-attachments/assets/4acce38c-c578-4638-bd91-37994afa91ba" />
+
 # Output:
+<img width="569" height="423" alt="image" src="https://github.com/user-attachments/assets/dea65ae5-fb93-4dec-82da-a09e2f061fb1" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +149,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+<img width="547" height="125" alt="image" src="https://github.com/user-attachments/assets/252bdc02-8bbb-494d-8db3-14a8aaf6bfd4" />
+
 # Output:
+<img width="536" height="438" alt="image" src="https://github.com/user-attachments/assets/040878ec-3d5c-4773-b578-2b5de1a8cee9" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +201,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+<img width="552" height="341" alt="image" src="https://github.com/user-attachments/assets/011c3060-dc0d-4c2f-88f9-d150dc763281" />
+<img width="610" height="181" alt="image" src="https://github.com/user-attachments/assets/93e9ed58-037c-432d-825d-a19198feb3b0" />
+
+
 # Output:
+<img width="551" height="436" alt="image" src="https://github.com/user-attachments/assets/9b829f25-ceac-4f76-bed0-1bdc3b6c5e60" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +242,15 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+<img width="571" height="299" alt="image" src="https://github.com/user-attachments/assets/18cf9550-42ae-40dc-8e16-309e4577d2f7" />
+<img width="574" height="109" alt="image" src="https://github.com/user-attachments/assets/8d6d887e-6baa-40ba-a44c-e1c14acf6128" />
+
+
 # Output:
+<img width="574" height="109" alt="image" src="https://github.com/user-attachments/assets/454bb3f7-9f39-4e2b-9312-be6fd04a8073" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
